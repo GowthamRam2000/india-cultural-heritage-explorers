@@ -97,23 +97,7 @@ bashpython load_enhanced_data_to_snowflake.py
 Run the application
 
 bashstreamlit run app.py
-📁 Project Structure
-india-cultural-heritage-explorer/
-├── app.py                    # Main application
-├── config.py                 # Configuration settings
-├── requirements.txt          # Dependencies
-├── data/
-│   ├── data_loader.py       # Data loading utilities
-│   └── data_processor.py    # Data processing logic
-├── components/
-│   ├── maps.py              # Map visualizations
-│   ├── analytics.py         # Analytics components
-│   └── recommendations.py   # Recommendation engine
-├── utils/
-│   └── helpers.py           # Helper functions
-└── assets/
-    └── styles.css           # Custom styling
-📈 Data Sources
+
 
 Art Forms: 68 traditional art forms across 28 states
 Cultural Sites: 60+ sites including all 40 UNESCO World Heritage Sites
