@@ -71,17 +71,17 @@ Installation
 
 Clone the repository
 
-bashgit clone https://github.com/GowthamRam2000/india-cultural-heritage-explorers.git
+git clone https://github.com/GowthamRam2000/india-cultural-heritage-explorers.git
 cd india-cultural-heritage-explorer
 
 Create virtual environment
 
-bashpython -m venv venv
+python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 Install dependencies
 
-bashpip install -r requirements.txt
+pip install -r requirements.txt
 
 Configure Snowflake
 
@@ -92,11 +92,11 @@ SNOWFLAKE_PASSWORD=your_password
 
 Load data into Snowflake
 
-bashpython load_enhanced_data_to_snowflake.py
+python load_enhanced_data_to_snowflake.py
 
 Run the application
 
-bashstreamlit run app.py
+streamlit run app.py
 
 
 Art Forms: 68 traditional art forms across 28 states
