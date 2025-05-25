@@ -71,7 +71,7 @@ Installation
 
 Clone the repository
 
-bashgit clone https://github.com/yourusername/india-cultural-heritage-explorer.git
+bashgit clone https://github.com/GowthamRam2000/india-cultural-heritage-explorers.git
 cd india-cultural-heritage-explorer
 
 Create virtual environment
